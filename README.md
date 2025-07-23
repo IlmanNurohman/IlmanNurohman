@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 
 ![https://instagram.com/ilman_nurohman1220](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 ![https://www.linkedin.com/in/ilman-nurohman/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![mailto:imannurohman71@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
