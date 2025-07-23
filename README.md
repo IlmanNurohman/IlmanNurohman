@@ -1,4 +1,4 @@
-## Hallo Perkenalkan Nama Saya Ilman Nurohman 👋
+### I am a fresh graduate in Software Engineering from Institut Teknologi Garut. I have a strong interest in software development, particularly in web-based applications. I am accustomed to working in teams, possess solid system analysis skills, and am open to new technologies and continuous learning.During my studies, I actively developed several web and Android-based projects using technologies such as Java, JavaScript, PHP, Laravel, MySQL, and other modern frameworks. I also have a good understanding of information system analysis and design, and I am familiar with using Git and GitHub for version control and project management.
 ![Ilman Nurohman](img/github-header-image.png)
 <!--
 **IlmanNurohman/IlmanNurohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
